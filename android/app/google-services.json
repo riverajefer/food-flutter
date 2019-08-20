@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531698745339",
+    "firebase_url": "https://food-efafd.firebaseio.com",
+    "project_id": "food-efafd",
+    "storage_bucket": "food-efafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531698745339:android:f3a6ada9a1cd4ca5",
+        "android_client_info": {
+          "package_name": "com.jeff.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531698745339-tspdj37mgjqi1fof9qhr12mf9cj5r5n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQoDW4tXojC27XsaLQ4_vDaEzU8X15VsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531698745339-tspdj37mgjqi1fof9qhr12mf9cj5r5n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
